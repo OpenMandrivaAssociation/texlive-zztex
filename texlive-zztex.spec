@@ -1,6 +1,6 @@
 Name:		texlive-zztex
 Version:	55862
-Release:	1
+Release:	2
 Summary:	A full-featured TeX macro package for producing books, journals, and manuals
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/zztex
