@@ -3,7 +3,7 @@ Version:	55862
 Release:	2
 Summary:	A full-featured TeX macro package for producing books, journals, and manuals
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/zztex
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/zztex
 License:	mit
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/zztex.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/zztex.doc.r%{version}.tar.xz
